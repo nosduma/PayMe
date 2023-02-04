@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: weshare.webtests.ExpensesPageTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.581 s - in weshare.webtests.ExpensesPageTests
